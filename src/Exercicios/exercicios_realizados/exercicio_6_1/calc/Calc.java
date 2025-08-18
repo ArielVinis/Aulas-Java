@@ -1,4 +1,4 @@
-package Exercicios.exercicio_6_1.calc;
+package Exercicios.exercicios_realizados.exercicio_6_1.calc;
 
 @FunctionalInterface
 public interface Calc {

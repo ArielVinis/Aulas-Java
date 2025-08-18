@@ -1,9 +1,9 @@
-package Exercicios.exercicio_6_1;
+package Exercicios.exercicios_realizados.exercicio_6_1;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-import Exercicios.exercicio_6_1.calc.Operation;
+import Exercicios.exercicios_realizados.exercicio_6_1.calc.Operation;
 
 public class Main {
   public static void main(String[] args) {
